@@ -2,9 +2,8 @@
 
 `MMEA` introduces a lightweight adapter that scales each multiplicity block by scale gating, achieving SOTA performance in PEFT of SO(3)-equivariant GNNs for molecular force field prediction.
 
-
 <div align="center">
-  <img src="mmea.png" alt="Magnitude‑Modulated Equivariant Adapter" style="width: 300; max-width: 100%;" />
+  <img src="mmea.png" alt="Magnitude-Modulated Equivariant Adapter" style="width:300px; max-width:100%;" />
 </div>
 
 ---
