@@ -1,5 +1,16 @@
 # MMEA: *Magnitude‑Modulated Equivariant Adapter for Parameter‑Efficient Fine‑Tuning of Equivariant GNNs*
 
+Accepted by AAAI 2026 as poster. Citation:
+
+```
+@article{jin2025magnitude,
+  title={Magnitude-Modulated Equivariant Adapter for Parameter-Efficient Fine-Tuning of Equivariant Graph Neural Networks},
+  author={Jin, Dian and Yuan, Yancheng and Tao, Xiaoming},
+  journal={arXiv preprint arXiv:2511.06696},
+  year={2025}
+}
+```
+
 `MMEA` introduces a lightweight adapter that scales each multiplicity block by scale gating, achieving SOTA performance in PEFT of SO(3)-equivariant GNNs for molecular force field prediction.
 
 <div align="center">
